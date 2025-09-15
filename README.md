@@ -1,4 +1,6 @@
+
 # 📂 Plantilla AppSheet + Google Drive
+<img width="1291" height="439" alt="Logo-ESC-2020-hor2" src="https://github.com/user-attachments/assets/cf53bddf-1cce-464f-a251-c36fb72ac571" />
 
 Este repositorio contiene la documentación y archivos de ejemplo para crear una app en **AppSheet** que maneja documentos de **Google Drive** de forma segura, sin exponer datos corporativos.
 
